@@ -1,0 +1,9 @@
+# Uploaded papers and the search index stay on our own computers
+library/
+*.pdf
+
+# Generated files
+scam_model.joblib
+__pycache__/
+.venv/
+.DS_Store
